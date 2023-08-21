@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Its Sumit</h1>
-<img align = "center" src="https://github.com/SumitBana/SumitBana/assets/142825429/504fafae-8ea1-449e-a63e-993ce0283d28" alt="Profile Image">
+//<img align = "center" src="https://github.com/SumitBana/SumitBana/assets/142825429/504fafae-8ea1-449e-a63e-993ce0283d28" alt="Profile Image">
 <h4 align="center">An undergraduate student specializing in Data Science within my B.Tech in Computer Science. With a passion for Coding and Technology, I'm excited to collaborate on remarkable projects and make a meaningful impact. Always curious about AI and ML.<br> Cheers.</h4>
 
 - 🔭 I’m currently working on : **Undestanding the Chatgpt API**
