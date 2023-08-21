@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, Its Sumit</h1>
-<h3 align="center">A Btech Undergrad Student</h3>
+<h3 align="center">An undergraduate student specializing in Data Science within my B.Tech in Computer Science. With a passion for Coding and Technology, I'm excited to collaborate on remarkable projects and make a meaningful impact. Always curious about AI and ML. Cheers.</h3>
 
 - 🔭 I’m currently working on **Undestanding the Chatgpt API**
 
 - 📫 How to reach me **sumitworks1508@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G7bxwRj3CofWDJevd8ZZAJ2y6S0WA9IS/view?usp=sharing](https://drive.google.com/file/d/1G7bxwRj3CofWDJevd8ZZAJ2y6S0WA9IS/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1G7bxwRj3CofWDJevd8ZZAJ2y6S0WA9IS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
