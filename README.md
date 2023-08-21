@@ -1,11 +1,13 @@
 <h1 align="center">Hey 👋, Its Sumit</h1>
-<h3 align="center">An undergraduate student specializing in Data Science within my B.Tech in Computer Science. With a passion for Coding and Technology, I'm excited to collaborate on remarkable projects and make a meaningful impact. Always curious about AI and ML.<br> Cheers.</h3>
+![ezgif com-video-to-gif](https://github.com/SumitBana/SumitBana/assets/142825429/504fafae-8ea1-449e-a63e-993ce0283d28)
 
-- 🔭 I’m currently working on **Undestanding the Chatgpt API**
+<h4 align="center">An undergraduate student specializing in Data Science within my B.Tech in Computer Science. With a passion for Coding and Technology, I'm excited to collaborate on remarkable projects and make a meaningful impact. Always curious about AI and ML.<br> Cheers.</h4>
 
-- 📫 How to reach me **sumitworks1508@gmail.com**
+- 🔭 I’m currently working on : **Undestanding the Chatgpt API**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1G7bxwRj3CofWDJevd8ZZAJ2y6S0WA9IS/view?usp=sharing)
+- 📫 How to reach me : **sumitworks1508@gmail.com**
+
+- 📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/1G7bxwRj3CofWDJevd8ZZAJ2y6S0WA9IS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
