@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Its Sumit</h1>
-<h3 align="center">An undergraduate student specializing in Data Science within my B.Tech in Computer Science. With a passion for Coding and Technology, I'm excited to collaborate on remarkable projects and make a meaningful impact. Always curious about AI and ML. Cheers.</h3>
+<h3 align="center">An undergraduate student specializing in Data Science within my B.Tech in Computer Science. With a passion for Coding and Technology, I'm excited to collaborate on remarkable projects and make a meaningful impact. Always curious about AI and ML.<br> Cheers.</h3>
 
 - 🔭 I’m currently working on **Undestanding the Chatgpt API**
 
