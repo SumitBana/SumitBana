@@ -5,7 +5,7 @@
   
   <p><strong>🔭 I’m currently working on:</strong> Understanding the ChatGPT API</p>
   <p><strong>📫 How to reach me:</strong> sumitworks1508@gmail.com</p>
-  <p><strong>📄 Know about my experiences:</strong> <a href="https://drive.google.com/file/d/1G7bxwRj3CofWDJevd8ZZAJ2y6S0WA9IS/view?usp=sharing" target="_blank">My Resume</a></p>
+  <p><strong>📄 Know about my experiences:</strong> <a href="https://drive.google.com/file/d/1G7bxwRj3CofWDJevd8ZZAJ2y6S0WA9IS/view?usp=sharing](https://drive.google.com/file/d/1Sat2APCq7GdOkFfWy-qNJjb6NiBPD8HT/view?usp=drive_link" target="_blank">My Resume</a></p>
   
   <h3>Connect with me:</h3>
   <a href="https://www.linkedin.com/in/sumit-saha-a13132289/" target="_blank">
