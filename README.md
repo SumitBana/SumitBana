@@ -6,9 +6,8 @@
   <p><strong>🔭 I’m currently working on:</strong> Understanding the ChatGPT API</p>
   <p><strong>📫 How to reach me:</strong> sumitworks1508@gmail.com</p>
 
-
   
-  <p><strong>📄 Know about my experiences:</strong> <a href="https://github.com/SumitBana/SumitBana/files/12503290/Resume.pdf" target="_blank">My Resume</a></p>
+  <p><strong>📄 Know about my experiences:</strong> <a href="https://github.com/SumitBana/SumitBana/files/12568677/Resume.pdf" target="_blank">My Resume</a></p>
   
   <h3>Connect with me:</h3>
   <a href="https://www.linkedin.com/in/sumit-saha-a13132289/" target="_blank">
