@@ -1,6 +1,8 @@
 <div class="centre">
   <h1>Hey 👋, It's Sumit</h1>
-  <img src="https://github.com/SumitBana/SumitBana/assets/142825429/504fafae-8ea1-449e-a63e-993ce0283d28" alt="Profile Image">
+ <p align="center">
+  <img width="460" height="300" src="https://github.com/SumitBana/SumitBana/assets/142825429/504fafae-8ea1-449e-a63e-993ce0283d28">
+</p> 
   <h4>An undergraduate student specializing in Data Science within my B.Tech in Computer Science. With a passion for Coding and Technology, I'm excited to collaborate on remarkable projects and make a meaningful impact. Always curious about AI and ML.<br> Cheers.</h4>
   
   <p><strong>🔭 I’m currently working on:</strong> Understanding the ChatGPT API</p>
