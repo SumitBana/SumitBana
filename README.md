@@ -5,7 +5,7 @@
 <h4>An undergraduate student specializing in Data Science within my B.Tech in Computer Science. With a passion for Coding and Technology, I'm excited to collaborate on remarkable projects and make a meaningful impact. Always curious about AI and ML.<br> Cheers 🥂.</h4></p> 
 
   
-  <p><strong>🔭 I’m currently working on:</strong> Understanding the ChatGPT API</p>
+  <p><strong>🔭 I’m currently working on:</strong> Learning Advance Java</p>
   <p><strong>📫 How to reach me:</strong> sumitworks1508@gmail.com</p>
 
   
