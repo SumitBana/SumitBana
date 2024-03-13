@@ -9,7 +9,7 @@
   <p><strong>📫 How to reach me:</strong> sumitworks1508@gmail.com</p>
 
   
-  <p><strong>📄 Know about my experiences:</strong> <a href="https://github.com/SumitBana/SumitBana/files/12568677/Resume.pdf" target="_blank">My Resume</a></p>
+  <p><strong>📄 Know about my experiences:</strong> <a href="https://github.com/SumitBana/SumitBana/files/14591260/Resume.pdf" target="_blank">My Resume</a></p>
   
   <h3>Connect with me:</h3>
   <a href="https://www.linkedin.com/in/sumit-saha-a13132289/" target="_blank">
@@ -18,3 +18,4 @@
   <a href="https://www.hackerrank.com/@sumitsaha1508" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" height="50"  />
   </a>
+
