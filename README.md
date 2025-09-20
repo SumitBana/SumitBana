@@ -5,7 +5,7 @@
 <h4>An undergraduate student specializing in Data Science within my B.Tech in Computer Science. With a passion for Coding and Technology, I'm excited to collaborate on remarkable projects and make a meaningful impact. Always curious about AI and ML.<br> Cheers 🥂.</h4></p> 
 
   
-  <p><strong>🔭 I’m currently working on:</strong> Learning Advance Java</p>
+  <p><strong>🔭 I’m currently working on:</strong> Deep Learning And GENAI</p>
   <p><strong>📫 How to reach me:</strong> sumitworks1508@gmail.com</p>
 
   <p><strong>📄 Know about my experiences:</strong> <a href="https://github.com/user-attachments/files/22443795/Resume.pdf" target="_blank">My Resume</a></p>
