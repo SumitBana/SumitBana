@@ -8,7 +8,8 @@
   <p><strong>🔭 I’m currently working on:</strong> Learning Advance Java</p>
   <p><strong>📫 How to reach me:</strong> sumitworks1508@gmail.com</p>
 
-  <p><strong>📄 Know about my experiences:</strong> <a href="https://github.com/user-attachments/files/16457108/Resume.pdf" target="_blank">My Resume</a></p>
+  <p><strong>📄 Know about my experiences:</strong> <a href="https://github.com/user-attachments/files/22443795/Resume.pdf" target="_blank">My Resume</a></p>
+
   
   <h3>Connect with me:</h3>
   <a href="https://www.linkedin.com/in/sumit-saha-a13132289/" target="_blank">
@@ -18,6 +19,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" height="50"  />
   </a>
   <a href="https://www.naukri.com/code360/profile/3102d69f-2369-449d-b695-0756b8ae7e9d" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFGN6Sr_NqlUA/company-logo_200_200/company-logo_200_200/0/1688561179874?e=1738800000&v=beta&t=pkNFxhS2uphSTQ_SYxl4ZsMNc9TjZ2tDQ1RkFgGnc-Y" alt="HackerRank" height="50"  />
+    <img src="https://media.licdn.com/dms/image/v2/D560BAQGDt_lnl8sX2g/company-logo_200_200/company-logo_200_200/0/1735890637902/codingninjas_logo?e=2147483647&v=beta&t=rl64Bgv1Xg-3FBmjtbocbDadC4mLmjPRmJh3X5aYMSc" alt="Coding Ninja" height="50"/>
   </a>
 
