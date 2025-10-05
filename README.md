@@ -1,5 +1,5 @@
 <div class="center">
-  <h1>Hey 👋, It's Sumit</h1>
+  <h1>Hey 👋, Sumit here,</h1>
  <p align="center">
   <img src="https://github.com/SumitBana/SumitBana/assets/142825429/504fafae-8ea1-449e-a63e-993ce0283d28">
 <h4>An undergraduate student specializing in Data Science within my B.Tech in Computer Science. With a passion for Coding and Technology, I'm excited to collaborate on remarkable projects and make a meaningful impact. Always curious about AI and ML.<br> Cheers 🥂.</h4></p> 
@@ -8,7 +8,9 @@
   <p><strong>🔭 I’m currently working on:</strong> Deep Learning And GENAI</p>
   <p><strong>📫 How to reach me:</strong> sumitworks1508@gmail.com</p>
 
-  <p><strong>📄 Know about my experiences:</strong> <a href="https://github.com/user-attachments/files/22443795/Resume.pdf" target="_blank">My Resume</a></p>
+  <p><strong>📄 Know about my experiences:</strong> <a href="https://github.com/user-attachments/files/22710735/Resume.pdf" target="_blank">My Resume</a></p>
+
+
 
   
   <h3>Connect with me:</h3>
